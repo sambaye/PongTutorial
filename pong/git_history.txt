@@ -1,0 +1,26 @@
+    1  cd Desktop/
+    2  cd Folders/
+    3  cd GitPractice/
+    4  ls
+    5  cd PongTutorial/
+    6  ls
+    7  cd pong/
+    8  git push -u origin master
+    9  clear
+   10  ls
+   11  vi git_basics.txt
+   12  clear
+   13  ls
+   14  vi git_basics.txt 
+   15  vi git_basics.txt 
+   16  clear
+   17  ls
+   18  git add git_basics.txt 
+   19  git status
+   20  git commit "added git basics" git_basics.txt 
+   21  vi git_basics.txt 
+   22  git commit -m "added git basics" git_basics.txt 
+   23  clear
+   24  ls
+   25  git push -u origin master
+   26  history > git_history.txt
